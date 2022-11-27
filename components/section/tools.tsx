@@ -30,7 +30,6 @@ import { WAKATIME_USERNAME } from 'lib/constants';
 import {
 	useWakaTimeStats,
 	WakaTimeLanguage,
-	useLanguageFromWakaTimeStats,
 } from 'lib/hooks';
 
 import ReactTooltip from 'react-tooltip';
